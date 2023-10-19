@@ -14,4 +14,4 @@ it helps to control the appliance.
 As per this code, user can ask current status of specific appliance (currently only 2 appliances as per this code) and ask to 
 turn off specific appliance via Twitter by sitting in any part of globe. If in future, user wanted to look into the status of 
 various appliances on any specific day, he can do so via his Dropbox account (which is linked here) where logfile would also 
-be maintained for all activities.
+be maintained for all activities.Thanks
